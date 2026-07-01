@@ -95,7 +95,7 @@ export const products: Product[] = [
     rating: 4.5,
     brand: "TechWear",
     image:
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&h=600&fit=crop",
   },
 ];
 
